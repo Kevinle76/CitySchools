@@ -41,7 +41,8 @@ Create a DataFrame that summarizes key metrics about each school, including the 
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-![image](https://user-images.githubusercontent.com/100891182/181815433-b5b26ff7-2d99-4f0a-bb6f-f6b8c2e4c32c.png)
+![image](https://user-images.githubusercontent.com/100891182/181816466-47a8c7ad-081f-466a-bf13-f851bcf82c1f.png)
+
 
 
 ### Highest-Performing Schools (by % Overall Passing):

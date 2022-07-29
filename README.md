@@ -22,6 +22,9 @@ Create a high-level snapshot, in a DataFrame, of the district's key metrics, inc
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+![image](https://user-images.githubusercontent.com/100891182/181815388-30276947-6941-4a26-a077-1505775f8583.png)
+
+
 ### School Summary:
 
 Create a DataFrame that summarizes key metrics about each school, including the following:
@@ -36,6 +39,9 @@ Create a DataFrame that summarizes key metrics about each school, including the 
 * % passing math (the percentage of students who passed math)
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
+
+![image](https://user-images.githubusercontent.com/100891182/181815433-b5b26ff7-2d99-4f0a-bb6f-f6b8c2e4c32c.png)
+
 
 ### Highest-Performing Schools (by % Overall Passing):
 

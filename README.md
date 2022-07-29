@@ -22,7 +22,8 @@ Create a high-level snapshot, in a DataFrame, of the district's key metrics, inc
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
-![image](https://user-images.githubusercontent.com/100891182/181815388-30276947-6941-4a26-a077-1505775f8583.png)
+![image](https://user-images.githubusercontent.com/100891182/181815673-24e658fd-88cd-4205-8215-9de6a96bec37.png)
+
 
 
 ### School Summary:

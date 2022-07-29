@@ -59,6 +59,9 @@ Create a DataFrame that highlights the top 5 performing schools based on % Overa
 * % passing math (the percentage of students who passed math)
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
+* 
+
+![image](https://user-images.githubusercontent.com/100891182/181816620-94563cb0-e15c-4d34-bcf8-865875a1c0e9.png)
 
 
 ### Lowest-Performing Schools (by % Overall Passing):
@@ -76,13 +79,24 @@ Create a DataFrame that highlights the bottom 5 performing schools based on % Ov
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+![image](https://user-images.githubusercontent.com/100891182/181816674-f3a9d82b-01f7-4e6a-8399-318f412bd9fe.png)
+
+
 ### Math Scores by Grade:
 
 Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+
+![image](https://user-images.githubusercontent.com/100891182/181816736-27c5da14-34da-4717-b160-b9e7c4aea5f2.png)
+
+
 ### Reading Scores by Grade:
 
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+
+![image](https://user-images.githubusercontent.com/100891182/181816809-363efb9b-ad96-4760-9733-9aa5f90a61ae.png)
+
 
 ### Scores by School Spending:
 
@@ -94,13 +108,22 @@ Create a table that breaks down school performance based on average spending ran
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+![image](https://user-images.githubusercontent.com/100891182/181816877-155cf4d5-df21-4af8-997c-d92bb4816b26.png)
+
+
 ### Scores by School Size:
 
 Create a table that breaks down school performance based on school size (small, medium, or large).
 
+![image](https://user-images.githubusercontent.com/100891182/181816959-d8a96944-99cc-4e20-a56d-bbb680525271.png)
+
+
 ### Scores by School Type:
 
 Create a table that breaks down school performance based on type of school (district or charter).
+
+![image](https://user-images.githubusercontent.com/100891182/181817002-570e8df6-85d7-4c98-b3af-20ea90c02184.png)
+
 
 
 ## References:

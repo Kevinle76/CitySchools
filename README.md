@@ -1,4 +1,4 @@
-# Pandas_Challange
+#City Schools
 
 Create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
@@ -7,8 +7,6 @@ Create and manipulate Pandas DataFrames to analyze school and standardized test 
 ## Requirements:
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. 
-
-Report must include a written description of at least two observable trends based on the data.
 
 
 ### District Summary:
